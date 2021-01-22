@@ -1,0 +1,9 @@
+/Users/lev/Desktop/C#-new/task6/bin/Debug/sharp-1.exe.config
+/Users/lev/Desktop/C#-new/task6/bin/Debug/sharp-1.exe
+/Users/lev/Desktop/C#-new/task6/bin/Debug/sharp-1.pdb
+/Users/lev/Desktop/C#-new/task6/obj/Debug/sharp-2.csprojAssemblyReference.cache
+/Users/lev/Desktop/C#-new/task6/obj/Debug/Task6_15.MainForm.resources
+/Users/lev/Desktop/C#-new/task6/obj/Debug/sharp-2.csproj.GenerateResource.cache
+/Users/lev/Desktop/C#-new/task6/obj/Debug/sharp-2.csproj.CoreCompileInputs.cache
+/Users/lev/Desktop/C#-new/task6/obj/Debug/sharp-1.exe
+/Users/lev/Desktop/C#-new/task6/obj/Debug/sharp-1.pdb

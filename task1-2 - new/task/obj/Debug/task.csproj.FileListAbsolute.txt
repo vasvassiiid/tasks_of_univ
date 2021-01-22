@@ -1,0 +1,11 @@
+C:/Users/HP/RiderProjects/tasks/task/bin/Debug/task.exe
+C:/Users/HP/RiderProjects/tasks/task/bin/Debug/task.pdb
+C:/Users/HP/RiderProjects/tasks/task/obj/Debug/task.csprojResolveAssemblyReference.cache
+C:/Users/HP/RiderProjects/tasks/task/obj/Debug/task.exe
+C:/Users/HP/RiderProjects/tasks/task/obj/Debug/task.pdb
+/Users/lev/Desktop/C#-new/task1-2/task/bin/Debug/task.exe
+/Users/lev/Desktop/C#-new/task1-2/task/bin/Debug/task.pdb
+/Users/lev/Desktop/C#-new/task1-2/task/obj/Debug/task.csprojAssemblyReference.cache
+/Users/lev/Desktop/C#-new/task1-2/task/obj/Debug/task.csproj.CoreCompileInputs.cache
+/Users/lev/Desktop/C#-new/task1-2/task/obj/Debug/task.exe
+/Users/lev/Desktop/C#-new/task1-2/task/obj/Debug/task.pdb

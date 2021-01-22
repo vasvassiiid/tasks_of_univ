@@ -1,0 +1,10 @@
+/Users/lev/Desktop/C#-new/task8/bin/Debug/sharp-3.exe.config
+/Users/lev/Desktop/C#-new/task8/bin/Debug/sharp-3.exe
+/Users/lev/Desktop/C#-new/task8/bin/Debug/sharp-3.pdb
+/Users/lev/Desktop/C#-new/task8/obj/Debug/sharp-3.csprojAssemblyReference.cache
+/Users/lev/Desktop/C#-new/task8/obj/Debug/Task8_15.Form.resources
+/Users/lev/Desktop/C#-new/task8/obj/Debug/sharp_3.Properties.Resources.resources
+/Users/lev/Desktop/C#-new/task8/obj/Debug/sharp-3.csproj.GenerateResource.cache
+/Users/lev/Desktop/C#-new/task8/obj/Debug/sharp-3.csproj.CoreCompileInputs.cache
+/Users/lev/Desktop/C#-new/task8/obj/Debug/sharp-3.exe
+/Users/lev/Desktop/C#-new/task8/obj/Debug/sharp-3.pdb
